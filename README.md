@@ -10,4 +10,3 @@ Netflix Clone Oluşturuldu
 
 <h2>Ekran Görüntüsü<h2>
 ![](neftlix.gif)
-# netflix-clone
