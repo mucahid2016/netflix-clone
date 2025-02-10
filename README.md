@@ -6,4 +6,3 @@
 <p>HTML ve CSS </p>
 
 <img src="neftlix.gif">
-
