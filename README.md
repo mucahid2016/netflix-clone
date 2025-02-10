@@ -1,13 +1,9 @@
 <h1> netflix-clone<h1>
 
-Netflix Clone Oluşturuldu
+<p>Netflix Clone Oluşturuldu</p>
 
 <h2> Kullanilan Teknolojiler </h2>
-<ul>
-<li>HTML</li>
-<li>CSS</li>
-</ul>
+<p>HTML ve CSS </p>
 
-<h2>Ekran Görüntüsü<h2>
-![](neftlix.gif)
-# netflix-clone
+<img src="neftlix.gif">
+
